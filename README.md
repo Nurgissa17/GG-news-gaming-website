@@ -1,7 +1,7 @@
 # GG News — Final Project
 
 ## Topic
-Gaming news and video game reviews. Five pages: Home, About, News, Reviews, Contact.
+Gaming news and video game reviews.
 
 ## Group members
 - Nurgissa Pernebay
@@ -19,7 +19,6 @@ Gaming news and video game reviews. Five pages: Home, About, News, Reviews, Cont
 
 ## GitHub Pages
 Existing website: [GG news](https://nurgissa17.github.io/GG-news-gaming-website/)
-Upload this Final Project version to the repository before submission.
 
 ## AI Usage
 ChatGPT helped with CSS color variables for light/dark themes, JavaScript if/else and user input validation (including the email check in the registration form), and Steam API integration.
