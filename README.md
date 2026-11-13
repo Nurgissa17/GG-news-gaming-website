@@ -18,7 +18,7 @@ Gaming news and video game reviews. Five pages: Home, About, News, Reviews, Cont
 - Registration form validation
 
 ## GitHub Pages
-Existing website: https://nurgissa17.github.io/Website-using-Boostrap/
+Existing website: [GG news](https://nurgissa17.github.io/GG-news-gaming-website/)
 Upload this Final Project version to the repository before submission.
 
 ## AI Usage
